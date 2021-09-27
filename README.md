@@ -1,3 +1,3 @@
 # Exploring-Reinforcement-Learning
 
-![reinfor](https://user-images.githubusercontent.com/75041273/134989950-63df0f35-99d1-4a47-99c4-124075cde47a.png)
+![reinfor (1)](https://user-images.githubusercontent.com/75041273/134990199-6e478acf-9c03-4e17-9e08-ee6d8057fa5f.png)
